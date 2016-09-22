@@ -1,5 +1,8 @@
 WebSocket 协议
 ============
+
+在线阅读：https://docs.headwindfly.com/doc/websocket
+
 原项目：https://github.com/zhangkaitao/websocket-protocol
 
 ## 目录
